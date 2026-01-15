@@ -57,3 +57,41 @@ Actualmente estoy desarrollando proyectos en:
 - **Dashboard administrativo** con gráficas en tiempo real
 
 ## 📂 **Estructura de Repositorios**
+
+
+## 📞 **Información de Contacto**
+
+| **Detalle** | **Información** |
+|-------------|-----------------|
+| **📧 Email** | 0sofiasys1@gmail.com |
+| **📱 Teléfono** | +52 442 546 85 09 |
+| **📍 Ubicación** | Amealco de Bonfil, Querétaro, México |
+| **🏠 Domicilio** | Colonia Santiago Mexquititlán, Santa Teresa Segunda Barrio 6 |
+| **👨‍💻 Desarrollador** | Jorge Matías Ramírez |
+
+## 🤝 **Colaboraciones y Trabajo**
+- ✅ **Desarrollo de proyectos personalizados**
+- ✅ **Migración y modernización de sistemas**
+- ✅ **Consultoría tecnológica**
+- ✅ **Mentoría en desarrollo web**
+
+## 📈 **Actividad Reciente**
+
+<!--START_SECTION:activity-->
+<!-- Aquí se agregará automáticamente tu actividad -->
+<!--END_SECTION:activity-->
+
+<div align="center">
+  
+  ![Visitas](https://komarev.com/ghpvc/?username=SofiaSys&color=blueviolet&style=flat-square)
+  
+  **⭐ ¡Si te gusta mi trabajo, no olvides darle estrella a mis repositorios! ⭐**
+</div>
+
+---
+<div align="center">
+  
+  **"Transformando ideas en soluciones digitales"** 
+  
+  © 2024 SofiaSys • Jorge Matías Ramírez
+</div>

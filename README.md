@@ -93,5 +93,5 @@ Actualmente estoy desarrollando proyectos en:
   
   **"Transformando ideas en soluciones digitales"** 
   
-  © 2024 SofiaSys • Jorge Matías Ramírez
+  © 2026 SofiaSys • Jorge Matías Ramírez
 </div>

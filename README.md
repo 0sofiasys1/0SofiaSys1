@@ -1,13 +1,13 @@
-# 🚀 SofIA - Desarrollo de Soluciones Tecnológicas
+# 🚀 SofiaSys - Desarrollo de Soluciones Tecnológicas
 
-![Banner SofIA](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=SofIA+%7C+Desarrollo+Web+y+Móvil+%7C+PHP+%7C+Python+%7C+Angular)
+![Banner SofiaSys](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=SofiaSys+%7C+Desarrollo+Web+y+Móvil+%7C+PHP+%7C+Python+%7C+Angular)
 
 ## 👋 ¡Hola! Soy Jorge Matías Ramírez
 
-**Desarrollador Full Stack** especializado en crear soluciones robustas y escalables. En **SofIA** desarrollo proyectos innovadores utilizando tecnologías modernas y mejores prácticas de desarrollo.
+**Desarrollador Full Stack** especializado en crear soluciones robustas y escalables. En **SofiaSys** desarrollo proyectos innovadores utilizando tecnologías modernas y mejores prácticas de desarrollo.
 
-## 🏢 **Sobre SofIA**
-**SofIA** es una iniciativa dedicada al desarrollo de software de calidad, centrada en:
+## 🏢 **Sobre SofiaSys**
+**SofiaSys** es una iniciativa dedicada al desarrollo de software de calidad, centrada en:
 - ✅ **Aplicaciones web empresariales** (PHP/Python)
 - ✅ **Sistemas de gestión** personalizados
 - ✅ **Soluciones móviles** nativas y multiplataforma
@@ -39,12 +39,12 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SofIA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofIA&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SofiaSys&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaSys&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofIA&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaSys&theme=radical" alt="Streak Stats" />
 </div>
 
 ## 🌟 **Proyectos Destacados**
@@ -63,7 +63,7 @@ Actualmente estoy desarrollando proyectos en:
 
 | **Detalle** | **Información** |
 |-------------|-----------------|
-| **📧 Email** | 0SofIA1@gmail.com |
+| **📧 Email** | 0SofiaSys1@gmail.com |
 | **📱 Teléfono** | +52 442 546 85 09 |
 | **📍 Ubicación** | Amealco de Bonfil, Querétaro, México |
 | **🏠 Domicilio** | Colonia Santiago Mexquititlán, Santa Teresa Segunda Barrio 6 |
@@ -83,7 +83,7 @@ Actualmente estoy desarrollando proyectos en:
 
 <div align="center">
   
-  ![Visitas](https://komarev.com/ghpvc/?username=SofIA&color=blueviolet&style=flat-square)
+  ![Visitas](https://komarev.com/ghpvc/?username=SofiaSys&color=blueviolet&style=flat-square)
   
   **⭐ ¡Si te gusta mi trabajo, no olvides darle estrella a mis repositorios! ⭐**
 </div>
@@ -93,5 +93,5 @@ Actualmente estoy desarrollando proyectos en:
   
   **"Transformando ideas en soluciones digitales"** 
   
-  © 2026 SofIA • Jorge Matías Ramírez
+  © 2026 SofiaSys • Jorge Matías Ramírez
 </div>
